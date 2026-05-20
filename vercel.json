@@ -1,0 +1,3 @@
+{
+  "ignoreBuildStep": "echo 'Skipping Vercel deployment for backend/non-frontend service' && exit 0"
+}
