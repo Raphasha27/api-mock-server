@@ -1,4 +1,4 @@
-typer>=0.27.2
+typer>=0.27.3
 pyyaml>=6.0
 uvicorn[standard]>=0.53.0
 fastapi>=0.115.0
